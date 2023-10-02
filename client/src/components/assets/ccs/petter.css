@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(153, 129, 129);
+}
+.container{
+    text-align: center;
+}
+
+.header{
+    color: white;
+    height: 20%;
+}
+
+.questions{
+    
+    width: 100%;
+    background-color: white;
+}
